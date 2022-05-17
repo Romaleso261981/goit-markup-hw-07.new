@@ -1,0 +1,15 @@
+:root {
+  --blue: #2196f3;
+  --grey: #757575;
+  --blue-button: #188ce8;
+  --primery-text-color: #212121;
+  --white-color: #ffffff;
+  --dark-grey: #2f303a;
+  --bg-ylight-gra: #f5f4fa;
+  --border-light-gra: #ececec;
+  --grayish-blue: #afb1b8;
+  --bg-soc-link: #ffffff1a;
+  --primery-white-color: rgba(255, 255, 255, 0.6);
+  --primery-border-color: #eeeeee;
+  --time: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}/*# sourceMappingURL=variables.css.map */
