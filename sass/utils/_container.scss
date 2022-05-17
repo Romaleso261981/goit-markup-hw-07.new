@@ -1,0 +1,25 @@
+body {
+    font-family: "Roboto", tahoma, sans-serif;
+    color: var(--primery-text-color);
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  img {
+    display: block;
+  }
+  
+  .container {
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+  }
+  
+  .section {
+    padding-top: 94px;
+    padding-bottom: 94px;
+  }
+  
