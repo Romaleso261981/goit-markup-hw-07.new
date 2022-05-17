@@ -14,10 +14,11 @@
 @import "./utils/variables.scss";
 @import "./utils/visually-hidden";
 @import "./utils/reset-style";
-@import "./utils/container";
+
 
 
 @import "./components/navigation-btn";
 @import "./components/top-text";
 @import "./components/backdrop";
 @import "./components/modal";
+@import "./components/container";
