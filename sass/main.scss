@@ -1,4 +1,9 @@
   
+@import "./utils/variables.scss";
+@import "./utils/visually-hidden";
+@import "./base/reset-style";
+
+
 @import "./layout/header";
 @import "./layout/hero";
 @import "./layout/our-works";
@@ -8,12 +13,6 @@
 @import "./layout/footer";
 @import "./layout/subscription-form";
 @import "./layout/card-set";
-
-
-
-@import "./utils/variables.scss";
-@import "./utils/visually-hidden";
-@import "./utils/reset-style";
 
 
 
